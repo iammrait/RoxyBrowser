@@ -11,6 +11,14 @@
 - [RoxyBrowserヘルプセンター](https://roxybrowser.com/docs)
 - [RoxyBrowserを無料でお試し](https://mrait.ca/go/freebrowser?utm_source=github)
 
+## ビデオチュートリアル
+
+YouTubeでRoxyBrowserの設定ガイド完全版を視聴:
+
+[![RoxyBrowser Tutorial](https://img.youtube.com/vi/reYLen8x8Uo/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLxY412qgkijKLUO1Gplz2q0MyCQC59Vnt)
+
+**[YouTubeプレイリスト](https://www.youtube.com/playlist?list=PLxY412qgkijKLUO1Gplz2q0MyCQC59Vnt)**
+
 ## 目次
 
 1. [RoxyBrowserとは？](#roxybrowserとは)

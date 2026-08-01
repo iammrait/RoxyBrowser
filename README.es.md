@@ -11,6 +11,14 @@ Códigos Promocionales y Últimas Ofertas de Gestión Multi-Cuenta para 2026
 - [Centro de Ayuda RoxyBrowser](https://roxybrowser.com/docs)
 - [Probar RoxyBrowser Gratis](https://mrait.ca/go/freebrowser?utm_source=github)
 
+## Video Tutorial
+
+Mira la guía completa de configuración de RoxyBrowser en YouTube:
+
+[![RoxyBrowser Tutorial](https://img.youtube.com/vi/reYLen8x8Uo/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLxY412qgkijKLUO1Gplz2q0MyCQC59Vnt)
+
+**[Lista de Reproducción de YouTube](https://www.youtube.com/playlist?list=PLxY412qgkijKLUO1Gplz2q0MyCQC59Vnt)**
+
 ## Tabla de Contenidos
 
 1. [¿Qué es RoxyBrowser?](#qué-es-roxybrowser)

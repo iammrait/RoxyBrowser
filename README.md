@@ -11,6 +11,14 @@ RoxyBrowser Promo Codes and Latest Multi-Account Management Deals for 2026
 - [RoxyBrowser Help Center](https://roxybrowser.com/docs)
 - [Try RoxyBrowser Free](https://mrait.ca/go/freebrowser?utm_source=github)
 
+## Video Tutorial
+
+Watch the complete RoxyBrowser setup guide on YouTube:
+
+[![RoxyBrowser Tutorial](https://img.youtube.com/vi/reYLen8x8Uo/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLxY412qgkijKLUO1Gplz2q0MyCQC59Vnt)
+
+**[YouTube Playlist](https://www.youtube.com/playlist?list=PLxY412qgkijKLUO1Gplz2q0MyCQC59Vnt)**
+
 ## Table of Contents
 
 1. [What is RoxyBrowser?](#what-is-roxybrowser)

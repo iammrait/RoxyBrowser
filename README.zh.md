@@ -11,6 +11,14 @@
 - [RoxyBrowser帮助中心](https://roxybrowser.com/docs)
 - [免费试用RoxyBrowser](https://mrait.ca/go/freebrowser?utm_source=github)
 
+## 视频教程
+
+在YouTube上观看完整的RoxyBrowser设置指南:
+
+[![RoxyBrowser Tutorial](https://img.youtube.com/vi/reYLen8x8Uo/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLxY412qgkijKLUO1Gplz2q0MyCQC59Vnt)
+
+**[YouTube播放列表](https://www.youtube.com/playlist?list=PLxY412qgkijKLUO1Gplz2q0MyCQC59Vnt)**
+
 ## 目录
 
 1. [什么是RoxyBrowser？](#什么是roxybrowser)
