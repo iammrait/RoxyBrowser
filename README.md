@@ -7,9 +7,9 @@ RoxyBrowser Promo Codes and Latest Multi-Account Management Deals for 2026
 ## Links
 
 - [Official RoxyBrowser Website](https://roxybrowser.com/)
-- [Download RoxyBrowser](https://roxybrowser.com/download)
+- [Download RoxyBrowser](https://mrait.ca/go/freebrowser?utm_source=github)
 - [RoxyBrowser Help Center](https://roxybrowser.com/docs)
-- [Try RoxyBrowser Free](https://mrait.ca/go/freebrowser)
+- [Try RoxyBrowser Free](https://mrait.ca/go/freebrowser?utm_source=github)
 
 ## Table of Contents
 
@@ -321,9 +321,9 @@ RoxyBrowser is a tool for managing legitimate browser environments. Always:
 
 ### Download Links
 
-- [Windows Download](https://roxybrowser.com/download#windows)
-- [macOS Download](https://roxybrowser.com/download#macos)
-- [Linux Download](https://roxybrowser.com/download#linux)
+- [Windows Download](https://mrait.ca/go/freebrowser?utm_source=github#windows)
+- [macOS Download](https://mrait.ca/go/freebrowser?utm_source=github#macos)
+- [Linux Download](https://mrait.ca/go/freebrowser?utm_source=github#linux)
 
 ### Quick Start
 
@@ -331,8 +331,8 @@ RoxyBrowser is a tool for managing legitimate browser environments. Always:
 # Clone this repo for reference
 git clone https://github.com/iammrait/RoxyBrowser.git
 
-# Visit official site for download
-# https://roxybrowser.com/
+# Download RoxyBrowser
+# https://mrait.ca/go/freebrowser?utm_source=github
 ```
 
 ## License
@@ -349,4 +349,4 @@ Found an error or want to improve this guide? Feel free to open an issue or pull
 
 **Prepared for:** [mrait.ca](https://mrait.ca) | [MrAit.ca](https://mrait.ca)
 
-**Try RoxyBrowser:** [mrait.ca/go/freebrowser](https://mrait.ca/go/freebrowser)
+**Try RoxyBrowser:** [mrait.ca/go/freebrowser](https://mrait.ca/go/freebrowser?utm_source=github)
