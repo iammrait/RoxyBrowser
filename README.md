@@ -278,7 +278,7 @@ The main window:
 - 40%+ promotional discounts available
 - Auto-renewal: 10% off
 - Longer subscriptions: higher discounts
-- Promo code: 5% additional off
+- **Promo code:** `0328SAQA` (5% off your purchase)
 
 ## FAQ
 
